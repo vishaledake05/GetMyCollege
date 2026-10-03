@@ -1,0 +1,12 @@
+target/
+
+# Firebase credentials
+**/*service-account*.json
+**/*firebase-adminsdk*.json
+
+# Java
+*.class
+
+# IDE
+.idea/
+.vscode/
